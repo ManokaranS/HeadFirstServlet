@@ -33,7 +33,7 @@
     <description></description>
     <display-name>NewServlet</display-name>
     <servlet-name>NewServlet</servlet-name>
-    <servlet-class>ServletPackage.NewServlet</servlet-class>
+  
   </servlet>
   <servlet-mapping>
     <servlet-name>NewServlet</servlet-name>
