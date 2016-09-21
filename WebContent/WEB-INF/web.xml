@@ -10,7 +10,7 @@
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
   <servlet>
-    <description>ghaiii</description>
+    <description></description>
     <display-name>Main</display-name>
     <servlet-name>Main</servlet-name>
     <servlet-class>ServletPackage.Main</servlet-class>
@@ -33,7 +33,7 @@
     <description></description>
     <display-name>NewServlet</display-name>
     <servlet-name>NewServlet</servlet-name>
-    <servlet-class>ServletPackage.NewServlet</servlet-class>
+  
   </servlet>
   <servlet-mapping>
     <servlet-name>NewServlet</servlet-name>
